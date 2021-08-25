@@ -67,7 +67,7 @@ Math will be relevant throughout the guide. Begin it as you start the guide, and
 
 | Courses                                                       | Status | Evidence |
 | :------------------------------------------------------------ | :----: | :------: |
-| [Algebra I](https://www.khanacademy.org/math/algebra)         |        |          |
+| [Algebra I](https://www.khanacademy.org/math/algebra)         |:white_check_mark:|[Evidence; the reviews tested all concepts; I knew many so didn't complete each individual concept](https://member.mathhelp.com/grades/12/03b9d4fd6ebd4afd2adb12e2f66d24b9)|
 | [Algebra II](https://www.khanacademy.org/math/algebra2)       |        |          |
 | [Trigonometry](https://www.khanacademy.org/math/trigonometry) |        |          |
 | [Precalculus](https://www.khanacademy.org/math/precalculus)   |        |          |
